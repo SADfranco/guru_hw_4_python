@@ -48,7 +48,7 @@ def test_circle():
 
     # TODO сосчитайте длину окружности
     length = 2 * math.pi * r
-    print(lenght)
+    print(length)
 
     assert length == 144.51326206513048
 
